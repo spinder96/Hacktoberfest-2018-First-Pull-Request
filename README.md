@@ -77,8 +77,8 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 74. Adam Purcell
 75. Nathan Fiscus
 76. Rajan Girsa
-77. Uyen Nguyen
-78.
+77. Connor Smith
+78. Uyen Nguyen
 79.
 80.
 81.
