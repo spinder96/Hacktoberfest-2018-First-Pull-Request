@@ -78,9 +78,9 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 75. Nathan Fiscus
 76. Rajan Girsa
 77. Connor Smith
-78. Emanuel Palm
-79.
-80.
+78. Uyen Nguyen
+79. Aaditya Phadnis
+80. Emanuel Palm
 81.
 82.
 83.
